@@ -1,0 +1,14 @@
+{
+	
+"UserName": "Ajit1",
+"UserEmail":"ajityadwadkar@gmail.com",
+"Password": "1234",
+"FirstName":"Ajit",
+"LastName":"Yadwadkar",
+"PhoneNumber": "9158008564",
+"TransactionReason": "Create Account",
+"AccountType": "Current",
+"AccountBalance": 10000
+
+
+}
